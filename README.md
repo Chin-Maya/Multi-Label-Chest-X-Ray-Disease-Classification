@@ -152,12 +152,3 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ---
 
-## ⭐ Star this repo if you found it helpful!
-
-Feel free to open issues or submit pull requests for improvements.
-
----
-
-**Made with ❤️ for the medical imaging community**
-
----
